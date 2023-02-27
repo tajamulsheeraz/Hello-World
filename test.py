@@ -1,3 +1,3 @@
 #!/bin/bash/python
 
-print("Success")
+print("Hello World")
